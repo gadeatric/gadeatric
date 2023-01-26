@@ -1,13 +1,12 @@
-### Hi there!!! 🧙🏻‍♀️ 👋🏻
+###  ✨ Hi there!!! 🧙🏻‍♀️ 👋🏻
 
-<!--
-**gadeatric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gadea, a data analysis junior with an academic background on psychology and social sciences.
 
-Here are some ideas to get you started:
-- 
-- 👩🏻‍💻 I’m currently working on learning my data analysis skills!
-- 🌱 I’m currently learning Tableau
-- 🧚🏻‍♀️ I’m looking to collaborate on ...
+- 👩🏻‍💻 I’m currently working on developing my data analysis skills!
+
+- 🌱 I’m currently learning Tableau and data storytelling
+
 - 💬 Ask me about my interest on social media and on-line communities analysis!
-- 📫 How to reach me: cgautric@gmail.com :
--->
+
+
+- 📫 How to reach me: cgautric@gmail.com ❗️
