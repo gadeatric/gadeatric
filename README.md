@@ -6,7 +6,9 @@ I'm Gadea, a data analysis junior with an academic background on psychology and 
 
 - 🌱 I’m currently learning Tableau and data storytelling
 
-- 💬 Ask me about my interest on social media and on-line communities analysis!
+- 💬 Ask me about my interest on social media and on-line communities analysis
 
 
 - 📫 How to reach me: cgautric@gmail.com ❗️
+
+**stay tuned of updates 🧚🏻‍♀️**
