@@ -1,6 +1,6 @@
 ###  ✨ Hi there!!! 🧙🏻‍♀️ 👋🏻
 
-I'm Gadea, a data analysis junior with an academic background on psychology and social sciences.
+I'm Gadea, a junior data analysis with an academic background on psychology and social sciences.
 
 - 👩🏻‍💻 I’m currently working on developing my data analysis skills!
 
@@ -11,4 +11,4 @@ I'm Gadea, a data analysis junior with an academic background on psychology and 
 
 - 📫 How to reach me: cgautric@gmail.com ❗️
 
-**stay tuned of updates 🧚🏻‍♀️**
+*stay tuned of updates 🧚🏻‍♀️*
