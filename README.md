@@ -4,7 +4,7 @@ I'm Gadea, a junior data analysis with an academic background on psychology and 
 
 - 👩🏻‍💻 I’m currently working on developing my data analysis skills!
 
-- 🌱 I’m currently learning about webscrapping and PowerBI
+- 🌱 I’m currently learning about webscrapping, PowerBI and Google Analytics
 
 - 💬 Ask me about the wonder of for loops for data processing optimization ✨
 
