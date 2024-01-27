@@ -1,6 +1,6 @@
-###  ✨ Hi there!!! /ᐠ. w.ᐟ\ᵐᵉᵒʷˎˊ˗ 💟
+# 🎀 Welcome to my GitHub ₍^ >ヮ<^₎ .ᐟ.ᐟ 🎀
 
-I'm Gadea, a junior data analyst with an academic background on psychology and social research.
+💟  I'm Gadea, a junior data analyst with an academic background on psychology and social research.
 
 - 👩🏻‍💻 I’m currently working on developing my data analysis skills!
   
@@ -9,8 +9,9 @@ I'm Gadea, a junior data analyst with an academic background on psychology and s
 - 🌱 I’m currently learning about ML & Cluster Analysis
 
 - 📫 How to reach me: cgautric@gmail.com ❗️
-
-*stay tuned of updates 🧚🏻‍♀️*
+  
+ (｡･ω･｡)つ━☆・*。
+ *stay tuned of updates 🧚🏻‍♀️*
 
 ![Codewars](https://github.r2v.ch/codewars?user=gadeatric&stroke=PINK)
 
