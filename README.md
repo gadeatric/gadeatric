@@ -1,4 +1,4 @@
-###  ✨ Hi there!!! /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
+###  ✨ Hi there!!! /ᐠ. w.ᐟ\ᵐᵉᵒʷˎˊ˗ 💟
 
 I'm Gadea, a junior data analyst with an academic background on psychology and social research.
 
