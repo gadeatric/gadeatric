@@ -4,7 +4,7 @@ I'm Gadea, a junior data analyst with an academic background on psychology and s
 
 - 👩🏻‍💻 I’m currently working on developing my data analysis skills!
   
-- 🏆 Pandas Open Contributor
+- 🐼 Pandas Open Contributor
 
 - 🌱 I’m currently learning about ML & Cluster Analysis
 
