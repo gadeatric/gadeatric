@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 I’m currently working on developing my data analysis skills!
   
-- 🐼 Pandas Open Contributor
+- 🐼 [Pandas Open Contributor](https://github.com/pandas-dev/pandas/issues/55489)
 
 - 🌱 I’m currently learning about ML & Cluster Analysis
 
