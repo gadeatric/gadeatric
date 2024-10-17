@@ -1,6 +1,6 @@
 # 🎀 Welcome to my GitHub ₍^ >ヮ<^₎ .ᐟ.ᐟ 🎀
 
-💟  I'm Gadea, a junior data analyst with an academic background on psychology and social research.
+💟  I'm Gadea, a data analyst with an academic background on psychology and social research.
 
 - 👩🏻‍💻 I’m currently working on developing my data analysis skills!
   
